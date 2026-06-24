@@ -1,0 +1,6 @@
+{
+  "name": "Video Edition M3",
+  "description": "A modern Material 3 video editor with multi-track timeline, transitions, real-time effects, and advanced exporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
